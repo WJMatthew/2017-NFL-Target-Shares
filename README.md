@@ -33,7 +33,7 @@ tgts.plot_those_targets('MIA')
 ```
 
 
-![png](output_3_0.png)
+![png](https://github.com/WJMatthew/2017-NFL-Target-Shares/blob/master/missing_targets/output_3_0.png)
 
 
 ![Image](http://content.sportslogos.net/logos/7/165/thumbs/406.gif)
@@ -50,7 +50,7 @@ tgts.plot_those_targets('DAL')
 ```
 
 
-![png](output_5_0.png)
+![png](https://github.com/WJMatthew/2017-NFL-Target-Shares/blob/master/missing_targets/output_5_0.png)
 
 
 ![Image](http://content.sportslogos.net/logos/7/153/thumbs/318.gif)
@@ -67,7 +67,7 @@ tgts.plot_those_targets('BAL')
 ```
 
 
-![png](output_7_0.png)
+![png](https://github.com/WJMatthew/2017-NFL-Target-Shares/blob/master/missing_targets/output_7_0.png)
 
 
 ![Image](http://content.sportslogos.net/logos/7/177/thumbs/kwth8f1cfa2sch5xhjjfaof90.gif)
@@ -84,7 +84,7 @@ tgts.plot_those_targets('ARI')
 ```
 
 
-![png](output_9_0.png)
+![png](https://github.com/WJMatthew/2017-NFL-Target-Shares/blob/master/missing_targets/output_9_0.png)
 
 
 ![Image](http://content.sportslogos.net/logos/7/6446/thumbs/644624152017.gif)
@@ -102,7 +102,7 @@ tgts.plot_those_targets('LAC')
 ```
 
 
-![png](output_11_0.png)
+![png](https://github.com/WJMatthew/2017-NFL-Target-Shares/blob/master/missing_targets/output_11_0.png)
 
 
 ![Image](http://content.sportslogos.net/logos/7/161/thumbs/9ebzja2zfeigaziee8y605aqp.gif)
@@ -119,5 +119,5 @@ tgts.plot_those_targets('DEN')
 ```
 
 
-![png](output_13_0.png)
+![png](https://github.com/WJMatthew/2017-NFL-Target-Shares/blob/master/missing_targets/output_13_0.png)
 
