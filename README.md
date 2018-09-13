@@ -28,11 +28,6 @@ tgts = nt.TeamTargets()
 **New Additions:**  Danny Amendola (WR), Albert Wilson (WR), Mike Gesicki (TE)  <br>
 
 
-```python
-tgts.plot_those_targets('MIA')
-```
-
-
 ![png](https://github.com/WJMatthew/2017-NFL-Target-Shares/blob/master/missing_targets/output_3_0.png)
 
 
@@ -43,11 +38,6 @@ tgts.plot_those_targets('MIA')
 **Targets potentially up for grabs:** 230  <br>
 **Departures:** Dez Bryant (WR), Jason Witten (TE) <br>
 **New Additions:**  Allen Hurns (WR)  <br>
-
-
-```python
-tgts.plot_those_targets('DAL')
-```
 
 
 ![png](https://github.com/WJMatthew/2017-NFL-Target-Shares/blob/master/missing_targets/output_5_0.png)
@@ -62,11 +52,6 @@ tgts.plot_those_targets('DAL')
 **New Additions:** Michael Crabtree, John Brown <br>
 
 
-```python
-tgts.plot_those_targets('BAL')
-```
-
-
 ![png](https://github.com/WJMatthew/2017-NFL-Target-Shares/blob/master/missing_targets/output_7_0.png)
 
 
@@ -77,12 +62,6 @@ tgts.plot_those_targets('BAL')
 **Targets potentially up for grabs:** 157  <br>
 **Departures:** Jaron Brown (WR, 74), John Brown (WR, 59), Troy Niklas (TE, 24) <br>
 **New Additions:**  Brice Butler (WR), Christian Kirk (WR) <br>
-
-
-```python
-tgts.plot_those_targets('ARI')
-```
-
 
 ![png](https://github.com/WJMatthew/2017-NFL-Target-Shares/blob/master/missing_targets/output_9_0.png)
 
@@ -97,10 +76,6 @@ tgts.plot_those_targets('ARI')
 **New Additions:** Virgil Green (TE) <br>
 
 
-```python
-tgts.plot_those_targets('LAC')
-```
-
 
 ![png](https://github.com/WJMatthew/2017-NFL-Target-Shares/blob/master/missing_targets/output_11_0.png)
 
@@ -113,10 +88,6 @@ tgts.plot_those_targets('LAC')
 **Departures:** Bennie Fowler (WR, 62), A.J. Derby (TE, 44), C.J. Anderson (RB, 41), Cody Latimer (WR, 31) <br>
 **New Additions:** Royce Freeman (RB) <br>
 
-
-```python
-tgts.plot_those_targets('DEN')
-```
 
 
 ![png](https://github.com/WJMatthew/2017-NFL-Target-Shares/blob/master/missing_targets/output_13_0.png)
